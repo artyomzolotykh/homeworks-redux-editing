@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homeworks-redux-editing/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/homeworks-redux-editing/static/js/main.80665879.chunk.js",
+    "main.js.map": "/homeworks-redux-editing/static/js/main.80665879.chunk.js.map",
+    "runtime-main.js": "/homeworks-redux-editing/static/js/runtime-main.e206e10e.js",
+    "runtime-main.js.map": "/homeworks-redux-editing/static/js/runtime-main.e206e10e.js.map",
+    "static/js/2.ba4cc633.chunk.js": "/homeworks-redux-editing/static/js/2.ba4cc633.chunk.js",
+    "static/js/2.ba4cc633.chunk.js.map": "/homeworks-redux-editing/static/js/2.ba4cc633.chunk.js.map",
+    "static/js/3.2b18301e.chunk.js": "/homeworks-redux-editing/static/js/3.2b18301e.chunk.js",
+    "static/js/3.2b18301e.chunk.js.map": "/homeworks-redux-editing/static/js/3.2b18301e.chunk.js.map",
+    "index.html": "/homeworks-redux-editing/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/homeworks-redux-editing/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ba4cc633.chunk.js.LICENSE.txt": "/homeworks-redux-editing/static/js/2.ba4cc633.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e206e10e.js",
+    "static/js/2.ba4cc633.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.80665879.chunk.js"
+  ]
+}
