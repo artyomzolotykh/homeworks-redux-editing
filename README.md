@@ -1,3 +1,3 @@
 # Информация по проекту
 
-Ссылка на страницу: [CRUD](https://artyomzolotykh.github.io/homeworks-redux-editing/).
+Ссылка на страницу: [REDUX](https://artyomzolotykh.github.io/homeworks-redux-editing/).
